@@ -1,4 +1,4 @@
 # demo
 First git repo
 <br>
-Author - me
+Author - Mayank Arora
